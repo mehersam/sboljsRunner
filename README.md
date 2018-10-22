@@ -8,7 +8,7 @@ sboljsRunner is the test runner that tests the [sboljsRunner](https://github.com
 2. [Setup](https://help.github.com/articles/set-up-git) Git on your machine.
 3. Follow instructions on the [SBOLTestRunners](https://github.com/mehersam/SBOLTestRunners) Github repository to retrieve individual test runners.
 4. [Download](https://nodejs.org/en/download/) NodeJS.
-5. [Download](https://github.com/SynBioDex/sboljs/releases) sboljs.
+5. [Download](https://github.com/SynBioDex/sboljs/releases) and follow instructions to setup sboljs.
 
 ### Using sboljsRunner
 
